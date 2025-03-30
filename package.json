@@ -1,5 +1,5 @@
 {
-  "name": "prct08-filesystem-funko-app-oscarnavaarro",
+  "name": "prct09-sockets-funko-app-oscarnavaarro",
   "version": "1.0.0",
   "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OTAAcbYr) [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18799926)",
   "main": "index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2425/prct08-filesystem-funko-app-oscarnavaarro.git"
+    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2425/prct08-sockets-funko-app-oscarnavaarro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-ESIT-INF-DSI-2425/prct08-filesystem-funko-app-oscarnavaarro/issues"
+    "url": "https://github.com/ULL-ESIT-INF-DSI-2425/prct08-sockets-funko-app-oscarnavaarro/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2425/prct08-filesystem-funko-app-oscarnavaarro#readme",
+  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2425/prct08-sockets-funko-app-oscarnavaarro#readme",
   "devDependencies": {
     "@eslint/js": "^9.22.0",
     "@types/chalk": "^0.4.31",
