@@ -10,7 +10,7 @@
     "start:client": "node dist/client.js",
     "doc": "typedoc",
     "test": "vitest run",
-    "coverage": "vitest run --coverage --coverage.include src/ --coverage.exclude src/funkoApp.ts"
+    "coverage": "vitest run --coverage --coverage.include src/ --coverage.exclude src/server.ts --coverage.exclude src/client.ts"
   },
   "repository": {
     "type": "git",
