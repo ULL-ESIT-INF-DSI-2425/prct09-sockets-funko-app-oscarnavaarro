@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "build": "rimraf dist && tsc",
+    "start:server": "node dist/server.js",
+    "start:client": "node dist/client.js",
     "doc": "typedoc",
     "test": "vitest run",
     "coverage": "vitest run --coverage --coverage.include src/ --coverage.exclude src/funkoApp.ts"
