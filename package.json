@@ -8,6 +8,8 @@
     "build": "rimraf dist && tsc",
     "start:server": "node dist/server.js",
     "start:client": "node dist/client.js",
+    "start:server:modi": "node dist/modi/server.js",
+    "start:client:modi": "node dist/modi/client.js",
     "doc": "typedoc",
     "test": "vitest run",
     "coverage": "vitest run --coverage --coverage.include src/ --coverage.exclude src/server.ts --coverage.exclude src/client.ts"

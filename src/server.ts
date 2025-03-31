@@ -1,6 +1,6 @@
 import net from "net";
 import chalk from "chalk";
-import { requestType, responseType, requestCommand } from "./sharedTypes.js";
+import { requestType, responseType } from "./sharedTypes.js";
 import { Funko } from "./funko.js";
 import {
   saveFunko,
